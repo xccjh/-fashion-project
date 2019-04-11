@@ -1,0 +1,273 @@
+/* 当前页面样式 */
+/* 头部部分开始 */
+.header{
+/* 	height: 63px; */
+	border-bottom: 1px solid #e1e1e1;
+}
+.header-logo{
+	/* margin-top: 20px;
+	margin-bottom: 20px; */
+	margin:20px 0;
+}
+.header-logo h1 a{
+	display: block;
+	width: 180px;
+	height: 26px;
+	font-size: 0;
+	background: url(../img/logo.png) no-repeat;
+}
+.search{
+	margin:20px 10px 0 0;
+}
+
+/* 头部部分开始 */
+
+/* 导航部分开始 */
+.nav{
+	height: 55px;
+	background: url(../img/nav_bg.png) repeat-x;
+}
+.nav ul li{
+	float:left;
+	padding:0 41px;
+	border-right:1px solid #eaeaea;
+	height: 55px;
+	line-height: 56px;
+
+}
+
+.nav li a{
+	color:#000;
+	font: 900 14px "microsoft yahei";
+}
+/* 导航部分结束 */
+
+
+/* 广告部分开始 */
+
+
+/* 广告部分结束 */
+
+/* 公告部分开始 */
+.column{
+	height: 30px;
+	border:1px solid #efefef;
+	background:#fbfbfb ;
+	margin-bottom: 17px;
+}
+
+.column .column_title h6{
+	display: inline-block;
+	font-size: 12px;
+	/* margin-top: 10px;
+	margin-bottom: 8px; */
+	margin: 10px 27px 8px 0;
+	color:#000;
+}
+.column_title span{
+   font-size: 12px;
+}
+.share img{
+	margin-top: 6px;share 
+}
+/* 公告部分结束 */
+
+/* 新品发布开始 */
+.main-left{
+	width: 310px;
+	height: 226px;
+	border:1px solid #e4e4e4;
+/* 	background: pink; */
+	margin-right: 12px;
+}
+.main-left .shang{
+	height: 30px;
+}
+.main-left img{
+	position: absolute;
+	top:-6px;
+	left:6px;
+}
+.main-left h5{
+	margin-top: 15px;
+	margin-left: 28px;
+	font-size: 14px;
+	font-weight: 600;
+
+}
+.main-left .tu{
+	background: url(../img/tuP.png) no-repeat;
+	width: 310px;
+	height: 195px;
+	margin-left: 23px;
+}
+.main-center{
+	width: 375px;
+	height: 226px;
+	border:1px solid #e4e4e4;
+}
+.main-center img{
+	position: absolute;
+	top:13px;
+	left:6px;
+}
+.main-center h5{
+	margin-top: 15px;
+	margin-left: 28px;
+    font-size: 14px;
+	font-weight: 600;
+	margin-bottom: 15px;
+}
+.main-center span{
+	position:absolute;
+	top:16px;
+	right:11px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #666666;
+}
+.sorry h6{
+	color:red;
+	font-weight: 600;
+	text-indent: 24px;
+	margin-bottom: 8px;
+	border-bottom:1px dashed #dcdcdc;
+}
+.sorry ul{
+	margin: -8px 18px 0 23px;
+}
+.sorry ul li {
+	height: 27px;	
+	line-height: 27px;
+	border-bottom:1px dashed #dcdcdc; 
+
+}
+.main-right{
+	width: 269px;
+	height: 226px;
+	border:1px solid #e4e4e4;
+}
+.main-right img{
+	position: absolute;
+	top:13px;
+	left:6px;
+}
+.main-right h5{
+	margin-top: 15px;
+	margin-left: 28px;
+	margin-bottom:9px;
+    font-size: 14px;
+	font-weight: 600;
+}
+.more {
+/* 	height: 75px; */
+	margin-left: 28px;
+}
+.more ul li{
+	height: 20px;
+/* 	margin-bottom:7px; */
+}
+.more ul li a{
+	background: url(../img/line.png) no-repeat;
+    padding-left:8px;
+}
+.more p{
+	margin-top:30px;
+
+}
+.more span{
+	display: block;
+	margin-top: 7px;
+}
+/* 新品发布结束 */
+
+
+/* 底部部分开始 */
+.footer{
+	height: 222px;
+	background: #2d2d2d;
+	border-bottom: 1px dashed #414141;	
+	margin-top: 53px;
+}
+.lb dl{
+	float:left;
+	margin-right: 56px;
+	margin-top: 16px;
+
+}
+.lb dl dt{
+	color:#c7c7c7;
+	font-size: 14px;
+	margin-bottom: 23px;
+}
+.lb dl dd{
+	font-size: 12px;
+	color: #707070;
+	margin-bottom: 5px;
+}
+
+
+
+.footered{
+	height: 84px;
+	background:#2d2d2d;
+}
+.footered p{
+	display: inline-block;
+	margin-top: 10px;
+	margin-left:373px;
+}
+span{
+	margin-top: 19px;
+	margin-left: 565px;
+}
+/* 底部部分结束 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
